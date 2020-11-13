@@ -1,0 +1,15 @@
+﻿@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam usecase {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+:Полиграфист: -left-> (Получить заказ)
+:Полиграфист: -down-> (Произвести печать)
+:Полиграфист: -right-> (Провести контроль печати)
+@enduml
