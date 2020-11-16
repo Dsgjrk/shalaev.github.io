@@ -1,5 +1,7 @@
 # shalaev.github.io
 
+## [Семинары](https://github.com/Dsgjrk/shalaev.github.io/blob/main/Семинары.md)
+
 # Отчет о лабораторных работах Шалаев Д.В. [идб-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07)
 ## Лабораторная 1
 
