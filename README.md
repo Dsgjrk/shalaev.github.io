@@ -5,6 +5,8 @@
 # Отчет о лабораторных работах Шалаев Д.В. [идб-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07)
 ## Лабораторная 1
 
+# Рефераты [Разработанный](https://github.com/stankin/design-part-1/wiki/exam16-3) и [Проверенный](https://github.com/stankin/design-part-1/wiki/list-idb-17-07)
+
 ### RAMUS - программное средство разработки структурно-функциональных моделей
 Текст с постановкой задачи: Полиграфист должен печатать журнал
 
