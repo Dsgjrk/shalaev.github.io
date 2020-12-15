@@ -2,7 +2,7 @@
 
 ## [Семинары](https://github.com/Dsgjrk/shalaev.github.io/blob/main/%D1%81%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%203-4.md)
 
-# Отчет о лабораторных работах Шалаев Д.В. [идб-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07)
+# Отчет о лабораторных работах 1-3 Шалаев Д.В. [идб-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07)
 ## Лабораторная 1
 
 # Рефераты [Разработанный](https://github.com/stankin/design-part-1/wiki/exam16-3) и [Проверенный](https://github.com/stankin/design-part-1/wiki/exam13-5)
