@@ -9,6 +9,8 @@
 
 # Рефераты [Разработанный](https://github.com/stankin/design-part-1/wiki/exam16-3) и [Проверенный](https://github.com/stankin/design-part-1/wiki/exam13-5)
 
+# [Командный Проект](https://github.com/stankin/oop-stat/projects/3)
+
 ### RAMUS - программное средство разработки структурно-функциональных моделей
 Текст с постановкой задачи: Полиграфист должен печатать журнал
 
