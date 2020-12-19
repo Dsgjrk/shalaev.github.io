@@ -4,11 +4,11 @@
 
 # Отчет о лабораторных работах [4-6](https://github.com/viveber/VeberVA/blob/main/labs4-6.md)
 
-# Отчет о лабораторных работах 1-3 Шалаев Д.В. [идб-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07)
-
 # Рефераты [Разработанный](https://github.com/stankin/design-part-1/wiki/exam16-3) и [Проверенный](https://github.com/stankin/design-part-1/wiki/exam13-5)
 
 # [Командный Проект](https://github.com/stankin/oop-stat/projects/3)
+
+# Отчет о лабораторных работах 1-3 Шалаев Д.В. [идб-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07)
 
 ## Лабораторная 1
 
